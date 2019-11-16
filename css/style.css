@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    size: 3em;
+    ;
+
+}
+
+
+
+
+.zone1{
+    display: inline;
+}
+
+#logo, #title, #title1 {
+    float: left;
+}
+
+.social {
+    margin-left: 546px;
+}
+
+main {
+    margin-top: 100px;
+   
+}
+#mainImage {
+    margin-top: 50px;
+    width: 85%;
+}
+
+main h1 {
+    font-size: 50px;
+    font-weight: bold;
+    margin-right: 550px;
+}
+
+main p {
+    margin-right: 600px;
+    color: #a5a5a5ea;
+}
+
+article p {
+    margin-left: 100px;
+    text-align: left;
+    width: 800px;
+}
+
+
+header div  {
+    margin-top: 50px;
+    background-color: grey;
+    height: 20px;
+    align-items: center;
+}
+
+#twoList {
+    background-image: url('img/list-bg.png');
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+#list1 {
+    float: left;
+}
